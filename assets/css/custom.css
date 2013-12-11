@@ -1,0 +1,11 @@
+
+.notes {
+  padding: 5px 0 33px !important;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.notes p {
+  text-align: right;
+  width: 96%;
+  font-size: 1.5em;
+}
