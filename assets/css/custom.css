@@ -4,6 +4,10 @@
   background: rgba(255, 255, 255, 0.1);
 }
 
+.reveal .notes ul {
+  margin: 0 1.9em 0.1em;
+}
+
 .notes .pencil {
   text-align: right;
   width: 96%;
