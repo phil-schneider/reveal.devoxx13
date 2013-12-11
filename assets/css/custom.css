@@ -4,8 +4,12 @@
   background: rgba(255, 255, 255, 0.1);
 }
 
-.notes p {
+.notes .pencil {
   text-align: right;
   width: 96%;
   font-size: 1.5em;
+}
+
+.afternotes {
+  padding-top: 10px !important;
 }
